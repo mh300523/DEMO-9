@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'IBM Plex Sans Arabic';
+    src: url('../fonts/fonts-file/IBMPlexSansArabic-Light.woff2') format('woff2'),
+        url('../fonts/fonts-file/IBMPlexSansArabic-Light.woff') format('woff'),
+        url('../fonts/fonts-file/IBMPlexSansArabic-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBM Plex Sans Arabic';
+    src: url('../fonts/fonts-file/IBMPlexSansArabic-Regular.woff2') format('woff2'),
+        url('../fonts/fonts-file/IBMPlexSansArabic-Regular.woff') format('woff'),
+        url('../fonts/fonts-file/IBMPlexSansArabic-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'IBM Plex Sans Arabic';
+    src: url('../fonts/fonts-file/IBMPlexSansArabic-Medium.woff2') format('woff2'),
+        url('../fonts/fonts-file/IBMPlexSansArabic-Medium.woff') format('woff'),
+        url('../fonts/fonts-file/IBMPlexSansArabic-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBM Plex Sans Arabic';
+    src: url('../fonts/fonts-file/IBMPlexSansArabic-SemiBold.woff2') format('woff2'),
+        url('../fonts/fonts-file/IBMPlexSansArabic-SemiBold.woff') format('woff'),
+        url('../fonts/fonts-file/IBMPlexSansArabic-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBM Plex Sans Arabic';
+    src: url('../fonts/fonts-file/IBMPlexSansArabic-Bold.woff2') format('woff2'),
+        url('../fonts/fonts-file/IBMPlexSansArabic-Bold.woff') format('woff'),
+        url('../fonts/fonts-file/IBMPlexSansArabic-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
