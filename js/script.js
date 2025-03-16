@@ -1,16 +1,16 @@
 $(document).ready(function() {
     ////////** fixed header on scroll back**//////////
-    var lastScrollTop = 0;
-    var $header = $('header');
-    var navbarHeight = $header.outerHeight();
-    $("body").css("padding-top", navbarHeight + "px");
+    // var lastScrollTop = 0;
+    // var $header = $('header');
+    // var navbarHeight = $header.outerHeight();
+    // $("body").css("padding-top", navbarHeight + "px");
     
-    $(window).scroll(function() {
-        var st = $(this).scrollTop();
-        var isScrollingDown = st > lastScrollTop && st > navbarHeight;
-        $header.toggleClass('header-up', isScrollingDown)
-        lastScrollTop = st;
-    });
+    // $(window).scroll(function() {
+    //     var st = $(this).scrollTop();
+    //     var isScrollingDown = st > lastScrollTop && st > navbarHeight;
+    //     $header.toggleClass('header-up', isScrollingDown)
+    //     lastScrollTop = st;
+    // });
     
     ///////// **mobile size** /////////
     $('.menu-bar').click(function () {

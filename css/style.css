@@ -137,7 +137,7 @@ img
     outline: none;
     box-shadow: none;
 }
-header
+/* header
 {
     position: fixed;
     -webkit-box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.1);
@@ -147,10 +147,10 @@ header
     z-index: 1000;
     background-color: var(--white-color);
     transition: 0.3s ease;
-}
-.header-up {
+} */
+/* .header-up {
     top: -100%;
-}
+} */
 .header .top-nav
 {
     display: flex;
